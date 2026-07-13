@@ -1,0 +1,25 @@
+{
+  "name": "Sewa Bhav",
+  "short_name": "Sewa Bhav",
+  "description": "Offer for a sewa — tutoring, driving, repairs, or any helping hand — with a dignity-first range instead of a fixed fee.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#2C5E43",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Sewa_Bhav-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "Sewa_Bhav-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

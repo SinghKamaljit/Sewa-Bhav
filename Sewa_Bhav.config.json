@@ -1,0 +1,9 @@
+{
+  "hostName": "Owner",
+  "upiId": "",
+  "qrUrl": "",
+  "serviceLabel": "Helping Hand",
+  "serviceMin": 50,
+  "serviceDefault": 100,
+  "serviceMax": 300
+}
